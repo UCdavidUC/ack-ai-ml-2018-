@@ -19,9 +19,9 @@ Construir un Bot de recomendaciones usando Microsoft Bot Framework que se integr
 
 Lo siguiente es requerido para poder realizar el laboratorio: 
 
-..*	Una suscripción activa de Microsoft Azure.
+1. Una suscripción activa de Microsoft Azure.
 
-..*	Conocimientos básicos de programación.
+2. Conocimientos básicos de programación.
 
 
 ### Índice 
