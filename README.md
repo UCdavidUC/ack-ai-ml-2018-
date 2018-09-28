@@ -24,7 +24,7 @@ Lo siguiente es requerido para poder realizar el laboratorio:
 
 ## Contacto
 
-|![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bdatae.png "") |![alt-text][https://bbotcontent.blob.core.windows.net/imagecontents/bside.jpg](https://bbotcontent.blob.core.windows.net/imagecontents/bside.jpg "") |
+|![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bdatae.png "") |![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bside.jpg "") |
 |:-------------:|:------------:|
 | bdatae     | bSide |
 | [Sitio Web](http://www.bdatae.com/) | [Sitio Web](http://www.bside.com.mx/) |
