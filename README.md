@@ -37,6 +37,7 @@ Lo siguiente es requerido para poder realizar el laboratorio:
 ### Herramientas
 
 * Visual Studio 2017 Community Edition (Es suficiente con esta versión y es compatible con las demás) [VS2017](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* Visual Studio Code (Editor de texto), es opcional, contiene los plugins necesarios para la creación de Bots con IA.
 * Bot Framework Emulator [Bot Framework (Stable)](https://github.com/Microsoft/BotFramework-Emulator/releases), instalar a partir de la versión 3.5.xx en adelante.
 * Descargar [ngrok](https://ngrok.com/download)
 
