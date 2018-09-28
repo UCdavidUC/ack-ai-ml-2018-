@@ -34,10 +34,15 @@ Lo siguiente es requerido para poder realizar el laboratorio:
 
 **Ejercicio 4:** Publicar el Bot en la página web.
 
+### Herramientas
+
+* Visual Studio 2017 Community Edition (Es suficiente con esta versión y es compatible con las demás) [VS2017](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* Bot Framework Emulator [Bot Framework (Stable)](https://github.com/Microsoft/BotFramework-Emulator/releases), instalar a partir de la versión 3.5.xx en adelante.
+* Descargar [ngrok](https://ngrok.com/download)
 
 ## Contacto
 
-|![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bdatae.png "") |![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bside_250.jpg "") |
+|![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bdatae.png "") | ![alt-text](https://bbotcontent.blob.core.windows.net/imagecontents/bside_250.jpg "") |
 |:-------------:|:------------:|
 | bdatae     | bSide |
 | [Sitio Web](http://www.bdatae.com/) | [Sitio Web](http://www.bside.com.mx/) |
